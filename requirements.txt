@@ -1,0 +1,13 @@
+numpy>=1.26,<3
+scikit-learn>=1.4
+matplotlib>=3.8
+torch>=2.2
+notebook>=7.0
+ipykernel>=6.29
+konlpy
+selenium
+beautifulsoup4
+pandas
+matplotlib
+requests
+lxml
